@@ -32,6 +32,10 @@
     { "source": "/terms-of-service", "destination": "/terms", "permanent": false },
     { "source": "/shipping-policy", "destination": "/shipping", "permanent": false },
     { "source": "/shipping-and-delivery", "destination": "/shipping", "permanent": false },
-    { "source": "/contact-us", "destination": "/contact", "permanent": false }
+    { "source": "/contact-us", "destination": "/contact", "permanent": false },
+    { "source": "/account-deletion", "destination": "/delete-account", "permanent": false },
+    { "source": "/delete-my-account", "destination": "/delete-account", "permanent": false },
+    { "source": "/data-deletion", "destination": "/delete-account", "permanent": false },
+    { "source": "/delete", "destination": "/delete-account", "permanent": false }
   ]
 }

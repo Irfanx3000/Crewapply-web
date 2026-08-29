@@ -106,7 +106,7 @@ h3 { font-size: 17px; margin: 26px 0 8px; }
 }
 
 p { margin: 0 0 14px; max-width: 72ch; }
-ul { margin: 0 0 16px; padding-left: 22px; max-width: 72ch; }
+ul, ol { margin: 0 0 16px; padding-left: 22px; max-width: 72ch; }
 li { margin-bottom: 8px; }
 a { color: var(--blue); }
 
